@@ -1,0 +1,28 @@
+_repo: Code_75019
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pierce, Frank Richardson
+    alias: Ranger, Seth
+    birthdate: 1881
+    deathdate: 1966
+    gutenberg_agent_id: '57352'
+    url: http://www.gutenberg.org/2009/agents/57352
+description: ''
+gutenberg_issued: '2025-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75019'
+language: en
+pgterms:marc905: 20241221154305pierce
+pgterms:marc906: '1929'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aNew York :$bDoubleday, Doran & Company, Inc., $c1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Code
+url: http://www.gutenberg.org/ebooks/75019
